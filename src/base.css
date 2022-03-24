@@ -22,11 +22,11 @@ button {
 	--avatar-size: 32px;
 	--background-image: url('https://i.imgur.com/7SbtKvw.png');
 	--home-image: url('https://i.imgur.com/233d55Y.gif');
-	--background-solid: #161921;
+	--background-solid: #14161c;
 	--background-solid-dark: #101218;
-	--background-solid-darker: #0c0e12;
-	--accent: 37, 172, 232;
-	--accent-alt: 29, 101, 134;
+	--background-solid-darker: #0b0c0f;
+	--accent: 48, 183, 242;
+	--accent-alt: 41, 135, 179;
 	--black: 0, 0, 0;
 	--white: 255, 255, 255;
 	/* BlurpleRecolor */
