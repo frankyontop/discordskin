@@ -535,7 +535,7 @@ nav>div[role="tablist"],
 /* Server Discovery */
 
 div[class^="sidebar"]+[class^="pageWrapper"] {
-	--background-secondary: rgba(var(--black), 0.8);
+	--background-secondary: rgba(var(--black), 1.0);
 	background-color: var(--background-secondary);
 }
 
